@@ -18,6 +18,8 @@ This PowerShell script creates scheduled tasks that run a reminder popup every d
    git clone https://github.com/yourusername/yourrepository.git
    cd yourrepository
 
+   My repository : https://github.com/aakash11boycreate?tab=repositories
+
 2. Modify the Script Path: Open the script file (YourScript.ps1) and update the $scriptPath variable to point to your script.
  $scriptPath = "C:\Path\To\Your\Script.ps1"  # Update this to your script path
 
